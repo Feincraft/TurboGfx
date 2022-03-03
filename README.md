@@ -1,4 +1,4 @@
-# TurboGfx
+# TurboGfx - PowerApps SVG Control
 SVG Editor control for PowerApps
 
 
