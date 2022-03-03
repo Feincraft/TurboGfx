@@ -14,6 +14,7 @@ Changes in V2:
 * Component data is no longer stored in global context
 * A new property allows external controls to update one or more variables in a single update (using a table)
 * Added comments to functions
+* External images can be bound to the control through a property
 * 30% less bugs!
 
 ![image](https://github.com/Feincraft/TurboGfx/blob/main/firefox_wWkbCqSVF9.gif)
